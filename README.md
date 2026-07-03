@@ -6,6 +6,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushkr592006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -55,4 +58,16 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
