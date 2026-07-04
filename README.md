@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -66,11 +67,13 @@
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Geometry
 |  |
 | ------- |
@@ -80,4 +83,8 @@
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
