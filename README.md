@@ -124,9 +124,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushkr592006/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushkr592006/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushkr592006/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushkr592006/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
