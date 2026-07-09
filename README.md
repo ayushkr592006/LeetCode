@@ -62,6 +62,7 @@
 | [0310-minimum-height-trees](https://github.com/ayushkr592006/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/ayushkr592006/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -93,6 +94,7 @@
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -104,6 +106,7 @@
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Geometry
@@ -120,6 +123,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
