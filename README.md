@@ -8,6 +8,7 @@
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushkr592006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushkr592006/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushkr592006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ayushkr592006/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Binary Search
 |  |
@@ -94,6 +97,7 @@
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -105,6 +109,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushkr592006/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -123,12 +128,14 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushkr592006/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Divide and Conquer
