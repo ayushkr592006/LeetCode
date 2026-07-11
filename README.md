@@ -70,6 +70,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayushkr592006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -102,6 +103,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayushkr592006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayushkr592006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Geometry
 |  |
 | ------- |
@@ -131,6 +134,7 @@
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ayushkr592006/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushkr592006/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/ayushkr592006/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
