@@ -3,8 +3,24 @@ public:
   void searche(int low,int high,vector<int>& nums,int &mini){
 if(high<low)return;
 int mid=(low+high)/2;
-mini=min(mini,nums[mid]);
-(searche(low,mid-1,nums,mini),searche(mid+1,high,nums,mini));
+
+//check for sorted half
+
+//left check
+
+if(nums[mid]>=nums[low]){
+     
+     mini=min(mini,nums[low]);
+
+     searche(mid+1,high,nums,mini);
+
+}
+
+else{
+   if(mid+1<nums.size()) mini=min(mini,nums[mid]);
+    searche(low,mid-1,nums,mini);
+}
+
 
 
 
