@@ -14,7 +14,7 @@ int solve(int low,int high,vector<int>& nums){
          }
 
   
-                   return  solve(low,mid-1,nums);
+                  return  solve(low,mid-1,nums);
          
 
 
