@@ -19,6 +19,7 @@
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/ayushkr592006/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1514-path-with-maximum-probability](https://github.com/ayushkr592006/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -147,6 +148,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushkr592006/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/ayushkr592006/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -208,4 +210,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ayushkr592006/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushkr592006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/ayushkr592006/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
