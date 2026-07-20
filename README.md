@@ -26,6 +26,7 @@
 | [1514-path-with-maximum-probability](https://github.com/ayushkr592006/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushkr592006/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
@@ -75,6 +76,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ayushkr592006/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ayushkr592006/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushkr592006/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
