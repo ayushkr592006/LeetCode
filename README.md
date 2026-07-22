@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushkr592006/LeetCode/tree/master/0035-search-insert-position) |
@@ -175,6 +176,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ayushkr592006/LeetCode/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
