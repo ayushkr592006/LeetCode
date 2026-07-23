@@ -28,6 +28,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushkr592006/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/ayushkr592006/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1539-kth-missing-positive-number](https://github.com/ayushkr592006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ayushkr592006/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -88,6 +89,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushkr592006/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushkr592006/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushkr592006/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ayushkr592006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushkr592006/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
