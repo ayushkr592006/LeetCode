@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushkr592006/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushkr592006/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
