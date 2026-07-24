@@ -36,6 +36,7 @@ else{
         for(int i=0;i<nums.size();i++){
             high+=nums[i];
         }
+       
           
 int ans=0;
 solve(low,high,nums,k,ans);
