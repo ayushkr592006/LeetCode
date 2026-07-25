@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushkr592006/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ayushkr592006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -214,6 +216,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/ayushkr592006/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
