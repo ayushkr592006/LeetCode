@@ -25,6 +25,7 @@
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/ayushkr592006/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushkr592006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushkr592006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
