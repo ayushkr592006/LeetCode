@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkr592006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushkr592006/LeetCode/tree/master/0035-search-insert-position) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
 ## Bucket Sort
 |  |
