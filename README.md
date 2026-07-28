@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ayushkr592006/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ayushkr592006/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushkr592006/LeetCode/tree/master/0162-find-peak-element) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/ayushkr592006/LeetCode/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushkr592006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushkr592006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -297,6 +299,7 @@
 | ------- |
 | [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ayushkr592006/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayushkr592006/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushkr592006/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
