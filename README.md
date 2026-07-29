@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushkr592006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushkr592006/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/ayushkr592006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushkr592006/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushkr592006/LeetCode/tree/master/0169-majority-element) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/ayushkr592006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/0435-non-overlapping-intervals) |
