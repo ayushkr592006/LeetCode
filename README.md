@@ -79,6 +79,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushkr592006/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushkr592006/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sliding Window
@@ -103,6 +104,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushkr592006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ayushkr592006/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushkr592006/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -263,6 +265,7 @@
 | [0860-lemonade-change](https://github.com/ayushkr592006/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushkr592006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
 | ------- |
