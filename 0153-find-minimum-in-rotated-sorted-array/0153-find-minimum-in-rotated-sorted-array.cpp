@@ -17,7 +17,8 @@ if(nums[mid]>=nums[low]){
 }
 
 else{
-   if(mid+1<nums.size()) mini=min(mini,nums[mid]);
+//    if(mid+1<nums.size())
+ mini=min(mini,nums[mid]);
     searche(low,mid-1,nums,mini);
 }
 
