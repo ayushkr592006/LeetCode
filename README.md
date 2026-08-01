@@ -379,4 +379,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ayushkr592006/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
