@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayushkr592006/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushkr592006/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushkr592006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushkr592006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -369,4 +371,8 @@
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
