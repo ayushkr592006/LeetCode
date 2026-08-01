@@ -39,6 +39,7 @@
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0860-lemonade-change](https://github.com/ayushkr592006/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ayushkr592006/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushkr592006/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -81,6 +82,7 @@
 | [0189-rotate-array](https://github.com/ayushkr592006/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushkr592006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -150,6 +152,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkr592006/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -359,4 +362,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
