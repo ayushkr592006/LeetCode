@@ -55,6 +55,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushkr592006/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushkr592006/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ayushkr592006/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushkr592006/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -159,6 +160,7 @@
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkr592006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
