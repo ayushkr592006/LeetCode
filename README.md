@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/ayushkr592006/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ayushkr592006/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushkr592006/LeetCode/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ayushkr592006/LeetCode/tree/master/0283-move-zeroes) |
@@ -151,6 +152,7 @@
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushkr592006/LeetCode/tree/master/0118-pascals-triangle) |
+| [0213-house-robber-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/0435-non-overlapping-intervals) |
