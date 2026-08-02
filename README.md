@@ -83,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayushkr592006/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ayushkr592006/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushkr592006/LeetCode/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ayushkr592006/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushkr592006/LeetCode/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0213-house-robber-ii) |
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ayushkr592006/LeetCode/tree/master/0176-second-highest-salary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushkr592006/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
