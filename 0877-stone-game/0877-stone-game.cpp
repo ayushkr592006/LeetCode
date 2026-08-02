@@ -1,5 +1,23 @@
 class Solution {
 public:
+
+int solve(int i,int j,vector<int>& piles,vector<vector<int>>&dp){
+if(i>j)return 0;
+if(i==j)return piles[i];
+if(dp[i][j]!=-1)return dp[i][j];
+int left=piles[i]-solve(i+1,j,piles,dp);
+int right=piles[j]-solve(i,j-1,piles,dp);
+
+return   dp[i][j]=   max(left,right);
+
+
+}
+
+
+
+
+
+
 // int solve(int i,int j,vector<int>& piles,vector<vector<int>>&dp){
 // if(i>j)return 0;
 // if (i == j) return piles[i];
@@ -13,6 +31,12 @@ public:
 
 
     bool stoneGame(vector<int>& piles) {
+
+   int n=piles.size();
+   vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+   return solve(0,n-1,piles,dp)>0;
+
+
 // int n=piles.size();
 //        int i=0;
 // int j=n-1;
@@ -23,7 +47,7 @@ public:
 // int p2=total-player1;
 // if(player1>=p2)return true;
 // return false;
-return true;
+
 
 
     }
