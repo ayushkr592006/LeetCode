@@ -24,6 +24,7 @@
 | [0229-majority-element-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ayushkr592006/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/ayushkr592006/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/ayushkr592006/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushkr592006/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -282,6 +283,7 @@
 | [0045-jump-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/ayushkr592006/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/ayushkr592006/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
