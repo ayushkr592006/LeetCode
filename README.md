@@ -37,6 +37,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushkr592006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushkr592006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkr592006/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/ayushkr592006/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0860-lemonade-change](https://github.com/ayushkr592006/LeetCode/tree/master/0860-lemonade-change) |
@@ -159,6 +160,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ayushkr592006/LeetCode/tree/master/0486-predict-the-winner) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkr592006/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkr592006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -259,6 +261,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ayushkr592006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushkr592006/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkr592006/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushkr592006/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -287,6 +290,7 @@
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ayushkr592006/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ayushkr592006/LeetCode/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ayushkr592006/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkr592006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ayushkr592006/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushkr592006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
