@@ -3,7 +3,7 @@ public:
 
 int solve(int i,int j,vector<int>& piles,vector<vector<int>>&dp){
 if(i>j)return 0;
-if(i==j)return piles[i];
+// if(i==j)return piles[i];
 if(dp[i][j]!=-1)return dp[i][j];
 int left=piles[i]-solve(i+1,j,piles,dp);
 int right=piles[j]-solve(i,j-1,piles,dp);
