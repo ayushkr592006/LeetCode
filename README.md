@@ -125,6 +125,7 @@
 | [0721-accounts-merge](https://github.com/ayushkr592006/LeetCode/tree/master/0721-accounts-merge) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ayushkr592006/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushkr592006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushkr592006/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ayushkr592006/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +175,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushkr592006/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ayushkr592006/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushkr592006/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/ayushkr592006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
