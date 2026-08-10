@@ -99,6 +99,7 @@
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushkr592006/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/ayushkr592006/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
@@ -181,6 +182,7 @@
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushkr592006/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/ayushkr592006/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ayushkr592006/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -404,6 +406,7 @@
 | [0877-stone-game](https://github.com/ayushkr592006/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ayushkr592006/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
 ## Memoization
 |  |
@@ -425,8 +428,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
