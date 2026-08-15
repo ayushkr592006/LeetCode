@@ -72,6 +72,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushkr592006/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayushkr592006/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ayushkr592006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -467,4 +468,8 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushkr592006/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayushkr592006/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
