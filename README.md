@@ -64,6 +64,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ayushkr592006/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushkr592006/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushkr592006/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -110,6 +111,7 @@
 | [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushkr592006/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushkr592006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -341,6 +343,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushkr592006/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushkr592006/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -416,6 +419,7 @@
 | [0169-majority-element](https://github.com/ayushkr592006/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushkr592006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
@@ -430,6 +434,7 @@
 | [1406-stone-game-iii](https://github.com/ayushkr592006/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -451,15 +456,18 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ayushkr592006/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
