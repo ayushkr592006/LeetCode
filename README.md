@@ -490,4 +490,5 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/ayushkr592006/LeetCode/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/ayushkr592006/LeetCode/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
