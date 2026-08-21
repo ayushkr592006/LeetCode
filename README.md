@@ -192,6 +192,7 @@
 | [0070-climbing-stairs](https://github.com/ayushkr592006/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/ayushkr592006/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ayushkr592006/LeetCode/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/ayushkr592006/LeetCode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ayushkr592006/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ayushkr592006/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0310-minimum-height-trees](https://github.com/ayushkr592006/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushkr592006/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ayushkr592006/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -368,6 +371,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ayushkr592006/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -496,4 +500,8 @@
 | ------- |
 | [1114-print-in-order](https://github.com/ayushkr592006/LeetCode/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/ayushkr592006/LeetCode/tree/master/1115-print-foobar-alternately) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
