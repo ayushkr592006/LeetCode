@@ -252,6 +252,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ayushkr592006/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ayushkr592006/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ayushkr592006/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -357,6 +358,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ayushkr592006/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -365,6 +367,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ayushkr592006/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushkr592006/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
