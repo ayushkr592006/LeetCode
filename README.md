@@ -97,6 +97,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushkr592006/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayushkr592006/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushkr592006/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushkr592006/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ayushkr592006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -158,6 +159,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushkr592006/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushkr592006/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushkr592006/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushkr592006/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushkr592006/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -438,6 +441,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ayushkr592006/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushkr592006/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -468,6 +472,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushkr592006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushkr592006/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
