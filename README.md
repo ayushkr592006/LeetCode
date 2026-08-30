@@ -67,6 +67,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ayushkr592006/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushkr592006/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushkr592006/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/ayushkr592006/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushkr592006/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushkr592006/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -359,6 +360,7 @@
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/ayushkr592006/LeetCode/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushkr592006/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushkr592006/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushkr592006/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushkr592006/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayushkr592006/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
