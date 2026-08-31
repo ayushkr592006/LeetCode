@@ -18,7 +18,7 @@ public:
 int cnt=1;
         if(nxt==NULL)return {-1,-1};
   while(curr!=NULL && curr->next!=NULL) {
-   
+   cnt++;
          if(curr->val>prev->val && curr->val>nxt->val){
               temp.push_back(cnt);
          }
@@ -28,7 +28,7 @@ int cnt=1;
       prev=prev->next;
       curr=curr->next;
       nxt=nxt->next;
-cnt++;
+
 
   }
 sort(temp.begin(),temp.end());
