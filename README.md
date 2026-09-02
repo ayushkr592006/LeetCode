@@ -79,6 +79,7 @@
 | [3620-network-recovery-pathways](https://github.com/ayushkr592006/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayushkr592006/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ayushkr592006/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushkr592006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushkr592006/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushkr592006/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushkr592006/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushkr592006/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
