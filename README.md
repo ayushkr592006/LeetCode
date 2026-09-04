@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushkr592006/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushkr592006/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ayushkr592006/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ayushkr592006/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ayushkr592006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushkr592006/LeetCode/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayushkr592006/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayushkr592006/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/ayushkr592006/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0229-majority-element-ii) |
@@ -151,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ayushkr592006/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayushkr592006/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ayushkr592006/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/ayushkr592006/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -321,6 +324,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayushkr592006/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ayushkr592006/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushkr592006/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushkr592006/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0229-majority-element-ii) |
