@@ -62,6 +62,7 @@
 | [1514-path-with-maximum-probability](https://github.com/ayushkr592006/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1539-kth-missing-positive-number](https://github.com/ayushkr592006/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushkr592006/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1672-richest-customer-wealth](https://github.com/ayushkr592006/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1686-stone-game-vi](https://github.com/ayushkr592006/LeetCode/tree/master/1686-stone-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushkr592006/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ayushkr592006/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -314,6 +315,7 @@
 | [0419-battleships-in-a-board](https://github.com/ayushkr592006/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/ayushkr592006/LeetCode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/ayushkr592006/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/ayushkr592006/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
 |  |
 | ------- |
