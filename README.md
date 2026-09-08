@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/ayushkr592006/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/ayushkr592006/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushkr592006/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ayushkr592006/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayushkr592006/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -148,6 +149,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushkr592006/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ayushkr592006/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushkr592006/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/ayushkr592006/LeetCode/tree/master/1140-stone-game-ii) |
